@@ -25,4 +25,4 @@ def get_imgs(dir):
 
 
 if __name__ == "__main__":
-    get_imgs(r"E:\hzj\天池比赛\雪浪制造AI挑战赛—视觉计算辅助良品检测\原始数据\xuelang_round1_train_part3_20180709")
+    get_imgs(r"F:\天池比赛项目\雪浪制造AI挑战赛\data\xuelang_round1_train_part3_20180709")
